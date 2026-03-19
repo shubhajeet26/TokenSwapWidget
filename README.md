@@ -45,7 +45,7 @@ This project is designed as a beginner-friendly decentralized finance (DeFi) app
 ---
 
 ## 🔗 Deployed Smart Contract Link
-XXX
+https://stellar.expert/explorer/testnet/contract/CAI4CEZBMCDIIPADZDAYZ342MYKCJ7MMO26J7VIRLHKCLBQQTCLXRHUK
 
 ---
 
@@ -59,4 +59,4 @@ XXX
 ---
 
 ## 👨‍💻 Author
-Your Name
+Shubhajeet Saha
