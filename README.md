@@ -4,7 +4,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b012888-d25b-49d0-82b0-13db152033f7" />
 
-https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CAI4CEZBMCDIIPADZDAYZ342MYKCJ7MMO26J7VIRLHKCLBQQTCLXRHUK;;
+https://lab.stellar.org/r/testnet/contract/CAI4CEZBMCDIIPADZDAYZ342MYKCJ7MMO26J7VIRLHKCLBQQTCLXRHUK
 
 
 ## 📌 Project Description
